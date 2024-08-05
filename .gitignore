@@ -1,0 +1,28 @@
+# React Native
+node_modules/
+ios/
+android/
+.expo/
+.expo-shared/
+npm-debug.log
+yarn-error.log
+*.DS_Store
+
+# macOS
+*.DS_Store
+
+# Xcode
+*.xcworkspace
+*.xcuserdata
+
+# Android/IntelliJ
+.idea/
+*.iml
+.gradle/
+
+# Node
+node_modules/
+package-lock.json
+
+# VSCode
+.vscode/
